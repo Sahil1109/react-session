@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.increase {
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+}
+
+.changecolor {
+  background-color: purple;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+}
+
+.decrease {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+}
+
+.showhide {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+}
